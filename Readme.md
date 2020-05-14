@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Timofey Arapov](https://up.htmlacademy.ru/htmlcss/28/user/1236525).
-* Наставник: `Неизвестно`.
+* Студент: [Timofey Arapov](https://up.htmlacademy.ru/htmlcss/28/user/1236525)
+* Наставник: [Владислав Кривокора](https://htmlacademy.ru/profile/krivokora)
 
 ---
 
